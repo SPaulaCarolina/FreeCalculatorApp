@@ -1,0 +1,15 @@
+.App {
+  height: 100vh;
+  background-color: #0f0f20;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  color: whitesmoke;
+  font-size: 2.4em;
+  font-style: oblique;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
